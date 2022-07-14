@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "hello": "world",
+      "id": 1
+    },
+    {
+      "email": "farisraihanhadibrata@gmail.com",
+      "password": "farisraihanhadibrata@gmail.com",
+      "address": {
+        "province": "Narcon",
+        "address": "farisraihanhadibrata@gmail.com"
+      },
+      "id": 2
+    },
+    {
+      "email": "farisraihanhadibrata@gmail.com",
+      "password": "farisraihanhadibrata@gmail.com",
+      "address": {
+        "province": "Ngamprah",
+        "address": "farisraihanhadibrata@gmail.com"
+      },
+      "id": 3
+    }
+  ]
+}
